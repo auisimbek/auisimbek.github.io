@@ -1,0 +1,58 @@
+[
+    {
+        "department_id": 1,
+        "hired": "2023-03-15",
+        "id": 1,
+        "name": "Айгерим Нурланова",
+        "position": "Юрист",
+        "salary": 500000
+    },
+    {
+        "department_id": 1,
+        "hired": "2022-09-01",
+        "id": 2,
+        "name": "Данияр Касымов",
+        "position": "Старший юрист",
+        "salary": 620000
+    },
+    {
+        "department_id": 1,
+        "hired": "2024-01-20",
+        "id": 3,
+        "name": "Сабина Омарова",
+        "position": "Помощник юриста",
+        "salary": 320000
+    },
+    {
+        "department_id": 2,
+        "hired": "2021-11-10",
+        "id": 4,
+        "name": "Ерлан Бектуров",
+        "position": "Адвокат",
+        "salary": 580000
+    },
+    {
+        "department_id": 2,
+        "hired": "2023-06-05",
+        "id": 5,
+        "name": "Алина Серикова",
+        "position": "Юрист",
+        "salary": 470000
+    },
+    {
+        "department_id": 3,
+        "hired": "2022-04-18",
+        "id": 7,
+        "name": "Жанар Ибрагимова",
+        "position": "Консультант",
+        "salary": 410000
+    },
+    {
+        "department_id": 3,
+        "hired": "2020-08-25",
+        "id": 8,
+        "name": "Тимур Жумабеков",
+        "position": "Старший консультант",
+        "salary": 550000
+    }
+]
